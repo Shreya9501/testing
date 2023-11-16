@@ -1,0 +1,11 @@
+﻿order_id,product_id,customer_id,customer_first_name,customer_last_name,contact,address,order_date,quantity,price
+1,101,1001,Kwai,Yu,7125557818,"   897 Long     Airport Avenue, NY",05-01-2023,5,5250
+2,102,1002,Paul,Henriot,9125557818,"59 rue de l'     Abbaye, CA",10-01-2023,3,2530
+3,103,1003,Daniel,Da Cunha,8325559118,"27 rue    du Colonel Pierre Avia, MA",15-01-2023,2,1050
+4,104,1004,Julie,Young,6265557265,"78934      Hillside Dr., CA",20-01-2023,4,1350
+5,105,1005,Julie,Brown,6505551386,"          7734 Strong    St., Victoria",30-01-2023,6,4350
+6,106,1006,Juri,Hirano,6505556809,"9408 Furth     Circle, PA",09-02-2023,1,5550
+7,107,1007,Martine,Ranc,2350554509,"184,     chauss‚e de Tournai, NY",11-02-2023,3,6550
+8,108,1008,Veysel,Oeztan,9505456809,"    Drammen 121, PR 744 Sentrum, PA",21-03-2023,5,1250
+9,109,1009,Julie,Murphy,5055523787,"5557 North      Pendale Street, NY",03-07-2023,1,3350
+10,110,1010,Dominique,Perrier,9059923887,"     25, rue Lauriston, NSW",14-07-2023,3,2450
